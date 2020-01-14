@@ -1,5 +1,9 @@
-# NCC System
+# NCC System (outdated)
 Non-contact capacitive system for movement analysis.
+
+Outdated, please check the new repo: https://github.com/NIATS-UFU/NCCSystem-Toolbox
+
+This repository can be deleted.
 
 #### Hardware - Patent pending number [BR 10 2018 069864 8](https://gru.inpi.gov.br/pePI/servlet/PatenteServletController?Action=detail&CodPedido=1488823&SearchParameter=BR%2010%202018%20069864%208%20%20%20%20%20%20&Resumo=&Titulo=)
 
